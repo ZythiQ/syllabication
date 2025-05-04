@@ -44,3 +44,4 @@ python syllabicate.py -o syllables.txt -f text # Use the NLTK word corpus and ou
 
 - Consonant based splitting is BAD with vowel diphthongs like in: `January`
 - Not sure what prompted this project, but I'm determined to get a decent syllabicator.
+- I am aware of the consonant splitting bug where double-letters are treated as a disputed consonant. Too lazy to fix that, but will later.
