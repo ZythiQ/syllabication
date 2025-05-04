@@ -33,7 +33,7 @@ python syllabicate.py syllabicate.py syzygium paniculatum -c
 ```
 
 ```bash
-python syllabicate.py WORD syllabicate.py abbreviation american abliterate -s ', '
+python syllabicate.py syllabicate.py abbreviation american abliterate -s ', '
 ```
 
 ```bash
