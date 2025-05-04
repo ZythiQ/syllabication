@@ -29,15 +29,15 @@ python syllabicate.py WORD [WORD...] [options]
 ##### Examples:
 
 ```bash
-python syllabicate.py syllabicate.py syzygium paniculatum -c
+python syllabicate.py syzygium paniculatum -c
 ```
 
 ```bash
-python syllabicate.py syllabicate.py abbreviation american abliterate -s ', '
+python syllabicate.py abbreviation american abliterate -s ', '
 ```
 
 ```bash
-python syllabicate.py -o syllables.txt -f text # This will use the NLTK word corpus as input.
+python syllabicate.py -o syllables.txt -f text # This will use the NLTK word corpus as input and output a text file.
 ```
 
 ### Notes
