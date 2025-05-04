@@ -37,7 +37,7 @@ python syllabicate.py abbreviation american abliterate -s ', '
 ```
 
 ```bash
-python syllabicate.py -o syllables.txt -f text # This will use the NLTK word corpus as input and output a text file.
+python syllabicate.py -o syllables.txt -f text # Use the NLTK word corpus and output a file.
 ```
 
 ### Notes
